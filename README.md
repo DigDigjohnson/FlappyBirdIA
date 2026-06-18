@@ -3,7 +3,7 @@
 ## Neuroevolução com Redes Neurais e Algoritmos Genéticos
 
 > Trabalho Grau B — Inteligência Artificial | UNISINOS | 2026
-> Integrantes: [Nome Integrante 1] | [Nome Integrante 2]
+> Integrantes: Rodrigo de Moraes Lehnen | Kalleu Queirolo Hannecker
 
 ---
 
